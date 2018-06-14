@@ -4,25 +4,28 @@
       border: 0;
   
       .card-header{
-        background-color: #36383c;
+        background-color: #984361;
         border-radius: 0;
         color: white;
         font-weight: 700;
       }
   
       .card-block{
+        background-color: #383f4a;
         padding-top: 10px;
         padding: 20px;
   
         .title{
-          color: #878d99;
+          color: #FFFFFF;
           font-weight: 700;
         }
   
         .btn-exchange{
-          background-color: #5bc0de;
-          border-color: #5bc0de;
+          background-color: #984361;
+          border-color: #984361;
           border-radius: 0;
+          font-weight: 700;
+          font-size: 15
         }
       }
     }
@@ -56,6 +59,6 @@
     }
   
     .btn-exchange {
-      font-size: 20px;
+      font-size: 15px;
     }
   }
