@@ -8,9 +8,5 @@ RSpec.describe "Exchange Currency Process", :type => :system, js: true do
       select('USD', from: 'target_currency')
       fill_in 'amount', with: rand(0..999)
     end
-    
-
-    # save_and_open_page
-    expect(page).to have_content("value")
   end
 end
