@@ -14,8 +14,6 @@ nodejs yarn build-essential libpq-dev imagemagick git-all nano
     * Run:
     * docker-compose run --rm app bundle exec rails db:create db:migrate
 * Database initialization
-    
-* How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
 
