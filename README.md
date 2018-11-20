@@ -2,7 +2,7 @@
 [ ![Codeship Status for CristopherVidalMachado/currencyconverter](https://app.codeship.com/projects/44d0b170-61e4-0136-16e3-1e2a021b2015/status?branch=master)](https://app.codeship.com/projects/296693)
 
 
-* Ruby version 2.5.1
+* Ruby version 2.5.5
 
 * System dependencies
     * apt-get update && apt-get install -qq -y --no-install-recommends \
