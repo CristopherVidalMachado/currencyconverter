@@ -20,3 +20,4 @@ nodejs yarn build-essential libpq-dev imagemagick git-all nano
 * Deployment instructions
     * Codeship+Heroku
 
+Alterando aqui
